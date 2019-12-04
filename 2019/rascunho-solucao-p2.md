@@ -1,18 +1,50 @@
-* Questoes
-  1. overlay é escrever em cima, ir trocando oq está na memória
-  2. Verd
-  3. Falsa compactação não faz sentido para partições fixas
-  4. V
-  5. sla
-  6. Falso. o compilador já deixa especificado no código do programa, não faz sentido decompilar
-  7. v
-  8. Falso, continua de onde parou pois ao suspender guarda-se o estado do programa
-  9. v
-  10. Falso. Até o 200% está correto. Segmentação paginada pode ser sim utilizada em alta performance por conta da TLB. O overhead passa de 200% para 10% apenas
-  11. Falsa, a TLB é pequena (64 entradas), ao fazer a troca de contexto vc a mantém
-  12. Falsa, perdi a explicação
-  13. Verdadeiro
   14. V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   15. V
   16. V
   17. V
